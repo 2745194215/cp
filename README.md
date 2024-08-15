@@ -8,9 +8,9 @@
 ### 使用
 
 ```cmd
-git clone https://github.com/txt1899/ore-miner-group.git
+git clone https://github.com/2745194215/cp.git
 
-cd ore-miner-group
+cd cp
 
 cargo build --release
 ```
